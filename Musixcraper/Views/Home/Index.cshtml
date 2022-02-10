@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .userInput {
+        width: 400px;
+    }
+</style>
+
+<div class="text-center">
+    <form asp-action="index" method="post">
+        <input type="text" class="userInput" name="userInput" placeholder="Type the name of the song and/or artist of your choice"/>
+        <button type="submit">Search</button>
+    </form>
+</div>

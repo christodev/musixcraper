@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{D481CD37-21D1-452C-873F-FB9EF8BAEF5C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Musixcraper/Models/SelScraper.cs">
+    <Files>
+      <File FileName="Musixcraper/Models/SelScraper.cs" Line="28" Column="28" />
+      <File FileName="Musixcraper/Views/Home/Index.cshtml" Line="7" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Musixcraper" expanded="True">
+            <Node name="Musixcraper" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="SelScraper.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>lyricsElts.Count</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Musixcraper PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kik/Documents/WebScraping/Musixcraper/Musixcraper/Models/PyRunner.cs" relfile="Musixcraper/Models/PyRunner.cs" line="72" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musixcraper", "Musixcraper.csproj", "{46B82277-C464-4F2C-BD66-45EC88AC6677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B82277-C464-4F2C-BD66-45EC88AC6677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B82277-C464-4F2C-BD66-45EC88AC6677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B82277-C464-4F2C-BD66-45EC88AC6677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B82277-C464-4F2C-BD66-45EC88AC6677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8ACF42-BFCF-4000-BE96-64D567644B3E}
+	EndGlobalSection
+EndGlobal
